@@ -110,10 +110,10 @@ belleville-dental/
 │   ├── gallery/         # Gallery images
 │   └── ...
 ├── src/
-│   ├── components/      # React components
-│   ├── assets/          # Fonts and documents
-│   └── helper/          # Utility functions
-└── docs/                # Documentation
+    ├── components/      # React components
+    ├── assets/          # Fonts and documents
+    └── helper/          # Utility functions
+
 ```
 
 ### Tech Stack
